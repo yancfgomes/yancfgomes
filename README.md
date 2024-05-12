@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi, I'm Yan 🙋🏽‍♂️ 
 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-da-costa-fernandes-gomes-46353819a/)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yancfgomes&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yancfgomes&hide_progress=true)
 <!--
 **yancfgomes/yancfgomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
