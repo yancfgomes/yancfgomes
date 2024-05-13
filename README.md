@@ -1,4 +1,4 @@
-## Hi, I'm Yan 🙋🏽‍♂️ 
+## Hi, I'm Yan Fernandes! 🙋🏽‍♂️ 
 
 ### Connect with me
 
