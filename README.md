@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Sistema Bancário em Python](https://github.com/yancfgomes/Sistema-Bancario-Em-Python)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **JAVA**
 
 - 📝 I regularly write articles on [https://www.dio.me/users/yancfgomes](https://www.dio.me/users/yancfgomes)
 
