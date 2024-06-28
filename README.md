@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Brazil 🟩🟨</h3>
 <br>
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **JAVA** and **FLUTTER**
 
 - 📝 I regularly write articles on [DIO](https://www.dio.me/users/yancfgomes)
 
