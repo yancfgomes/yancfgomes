@@ -1,12 +1,4 @@
 <h1 align="center">Hi 👋, I'm Yan Fernandes</h1>
-<br>
-
-- 🌱 I’m currently learning **Front-End**
-
-- 📫 How to reach me **yancfgomes@gmail.com**
-  
-<br>
-
 <hr>
 <h3>GitHub Stats</h3>
         <p>
@@ -18,6 +10,11 @@
         </p>
         <br><br><br><br><br><br><br><br>
 <hr>
+<br>
+- 🌱 I’m currently learning **Front-End**
+
+- 📫 How to reach me **yancfgomes@gmail.com**
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yan-da-costa-fernandes-gomes-46353819a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yan-da-costa-fernandes-gomes-46353819a/" height="30" width="40" /></a>
